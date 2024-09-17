@@ -32,3 +32,10 @@ https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset
 - ![](https://github.com/PrachiPatel15/Book-Recommender-System/blob/main/webapp-2.png) 
 
 
+## Credit
+- Project Repo:
+  https://github.com/PrachiPatel15/Book-Recommender-System.git
+
+- Datasets:
+  https://www.kaggle.com/datasets/saurabhbagchi/books-dataset/data
+
